@@ -8,12 +8,22 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+---
+
+## ⚠️ Disclaimer
+
+**T&C Guardian uses AI to analyze contracts. It is not a substitute for a human lawyer. We accept no liability for missed clauses or incorrect interpretations.**
+
+This tool is designed to assist users in identifying potential issues in contracts, but it should not be relied upon as the sole basis for legal decisions. Always consult with a qualified legal professional for important contract matters.
 
 ---
 
 ## 📋 Table of Contents
 
 - [Overview](#overview)
+- [Disclaimer](#️-disclaimer)
 - [Features](#features)
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
@@ -620,9 +630,19 @@ Contributions are welcome! Please follow these steps:
 
 ## 📝 License
 
-**Private - All Rights Reserved**
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
-This project is proprietary software. Unauthorized copying, modification, distribution, or use is strictly prohibited.
+See the [LICENSE](LICENSE) file for the full license text.
+
+### What does this mean?
+
+- ✅ **You can use** this software for any purpose
+- ✅ **You can modify** the code
+- ✅ **You can distribute** the software
+- ⚠️ **You must** release your modifications under the same AGPL license
+- ⚠️ **You must** make the source code available if you run this as a network service
+
+For more information about the AGPL license, visit: https://www.gnu.org/licenses/agpl-3.0.html
 
 ---
 
@@ -673,4 +693,5 @@ Built with ❤️ using React, FastAPI, and Google Gemini
 ---
 
 **Stay safe out there! 🛡️**
+
 
