@@ -15,3 +15,4 @@ Or use ImageMagick:
 The SVG favicon is already in place and will work in modern browsers.
 The ICO file is for legacy browser support.
 
+
