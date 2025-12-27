@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+firebase-admin
+beautifulsoup4
+requests
+pypdf2
+python-docx
+pytest
+httpx
+pydantic-settings
