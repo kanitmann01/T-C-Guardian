@@ -1,0 +1,24 @@
+{
+  "name": "T&C Guardian - Paranoid Lawyer",
+  "short_name": "Guardian",
+  "description": "AI-powered contract analyzer to find predatory clauses in Terms & Conditions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
+

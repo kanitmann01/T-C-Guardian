@@ -1,0 +1,15 @@
+OG Image Placeholder
+
+This file is a placeholder. To complete Phase 2:
+
+1. Take a screenshot of your Dashboard (with analysis results visible)
+2. Crop it to exactly 1200x630px
+3. Save it as: frontend/public/og-image.png
+
+The image should showcase:
+- The T&C Guardian interface
+- Risk analysis visualization
+- Professional, clean design
+
+For now, the meta tags are configured to use /og-image.png, but you'll need to create the actual image file.
+

@@ -1,0 +1,17 @@
+Favicon.ico Instructions
+
+To complete the favicon setup:
+
+1. Convert the favicon.svg to a 32x32 ICO file
+2. Save it as: frontend/public/favicon.ico
+
+You can use online tools like:
+- https://convertio.co/svg-ico/
+- https://www.favicon-generator.org/
+
+Or use ImageMagick:
+  convert favicon.svg -resize 32x32 favicon.ico
+
+The SVG favicon is already in place and will work in modern browsers.
+The ICO file is for legacy browser support.
+
