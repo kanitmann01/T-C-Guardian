@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Environment and secrets
+.env
+.env.local
+secrets.json
+firebase_service_account.json
+*.key
+*.pem
+
+# Logs
+*.log
+logs/
+log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+test_output.txt
+debug_*.py
+
+# Cursor IDE
+.cursor/
+
