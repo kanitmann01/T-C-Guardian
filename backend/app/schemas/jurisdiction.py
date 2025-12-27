@@ -45,3 +45,4 @@ class Jurisdiction(str, Enum):
         }
         return references.get(jurisdiction, "General consumer protection laws apply.")
 
+
